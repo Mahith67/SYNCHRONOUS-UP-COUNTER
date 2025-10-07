@@ -44,3 +44,8 @@ Developed by: RegisterNumber:
 **TRUTH TABLE**
 
 **RESULTS**
+<img width="1920" height="1080" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/25c77484-5f63-43af-a10e-4210250070d1" />
+<img width="1920" height="1080" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/8bb0b5d4-d969-40dc-9e7e-f4ca1aa361b7" />
+<img width="1920" height="1080" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/e0b29048-f1a6-4b92-97d3-43cc73905cb9" />
+<img width="1920" height="1080" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/569f8334-63a8-4e75-a966-e740492a6d92" />
+
